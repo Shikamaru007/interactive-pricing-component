@@ -234,11 +234,6 @@ hr{
     border-radius: 80px;
     cursor: pointer;
 }
-.amount{
-    background-color: blanchedalmond;
-    
-
-}
 .trialBtn:hover{
     background-color: hsl(227, 36%, 29%);
 }
