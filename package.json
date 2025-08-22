@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Shikamaru007/interactive-pricing-component",
+  "homepage": "https://Shikamaru007.github.io/interactive-pricing-component",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
