@@ -7,8 +7,10 @@ function App() {
 
   return (
     <>
-      <IntroHeader></IntroHeader>
-      <RangeCard></RangeCard>
+      <div className="container">
+        <IntroHeader></IntroHeader>
+        <RangeCard></RangeCard>
+      </div>
     </>
   )
 }
