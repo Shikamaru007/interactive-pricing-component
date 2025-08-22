@@ -7,7 +7,7 @@
 }
 body{
   min-height: 100vh;
-  background-image: url(/public/bg-pattern.svg);
+  background-image: url('./assets/bg-pattern.svg');
   background-color:  hsl(230, 100%, 99%);
   background-repeat: no-repeat;
   background-position: top left;

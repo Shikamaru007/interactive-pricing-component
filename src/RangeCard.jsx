@@ -1,5 +1,5 @@
 import React, {useState, useRef} from 'react';
-import checkIcon from '../public/icon-check.svg'
+import checkIcon from './assets/icon-check.svg'
 import './App.css'
 
 const RangeCard = () => {
@@ -8,7 +8,6 @@ const RangeCard = () => {
     const [isDragging, setIsDragging] = useState(false);
     const [isActive, setIsActive] = useState(false);
     const btnRef = useRef(null)
-    
     
     
   

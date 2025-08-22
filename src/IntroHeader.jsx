@@ -1,5 +1,5 @@
 import './App.css'
-import HeaderPattern from '../public/pattern-circles.svg'
+import HeaderPattern from './assets/pattern-circles.svg'
 
 function IntroHeader(){
     return(
